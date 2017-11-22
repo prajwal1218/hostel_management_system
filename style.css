@@ -1,0 +1,106 @@
+.container-fluid{
+    
+    width: 255px;
+    height: 250px;
+    float: left;
+    text-align:center;
+    margin: 10px 580px;
+    border-radius: 25px 25px 25px 25px;
+    background-image: url("img.jpg");
+    
+}
+.button1{
+  
+    
+    color: white;
+    padding: 35px 32px;
+    margin: 30px 0px 0px 150px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    height: 250px;
+    border-radius: 25px 25px 25px 25px;
+    background-image: url("images.jpg");
+    border-style: none;
+   
+}
+.button2{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 35px 32px;
+    margin: 30px 0px 0px 250px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    height: 250px;
+    border-radius: 25px 25px 25px 25px;
+    
+    background-image: url("images.jpg");
+}
+/*.button3{
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin: 80px 0px 0px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    height: 250px;
+    width:380px;
+    background-image: url("images.jpg");
+    src: "register.html"; 
+}*/
+.button3 {
+    color: #FFF;
+    padding: 15px 32px;
+    margin: 40px 0px 0px 150px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    height: 250px;
+    width:287px;
+    border-radius:25px 25px 25px 25px;
+    border:none;
+    background-image: url("images.jpg");
+}
+
+.button4{
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin: 40px 0px 0px 250px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    height: 250px;
+    width:262px;
+    border-radius:25px 25px 25px 25px;
+    background-image: url("images.jpg");
+}
+
+
+/*.button3
+{
+    display: block;
+
+}*/
+
+
+
+
+
+.register{
+    background-image:url("white.jpg");
+    width:300px;
+    height:400px;
+    margin:100px 0px 0px 500px ; 
+    padding: 10px 20px 10px 30px;
+  
+}
